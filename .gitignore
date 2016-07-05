@@ -1,4 +1,4 @@
-
+App_Data/**/*.mdf
 ###################
 # compiled source #
 ###################
@@ -26,7 +26,7 @@ _UpgradeReport_Files/
 bin/
 obj/
 TestResults/
-efw/App_Data/
+
 ###################
 # Web publish log #
 ###################
